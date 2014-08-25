@@ -1,2 +1,2 @@
-lightspeed-cordova-ios
+Lightspeed-cordova-ios
 ======================
